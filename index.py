@@ -90,7 +90,7 @@ if query != "":
         st.error('Pas écolo', icon="🚨")
 
     else:
-        st.tip('Comme les normands, ça dépend', icon="❓")
+        st.info('Comme les normands, ça dépend', icon="❓")
 
 
 
